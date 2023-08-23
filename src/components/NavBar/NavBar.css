@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} 
+header h1{
+    color: white;
+}
+li{
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+    font-weight: 700;
+    color: white;
+}

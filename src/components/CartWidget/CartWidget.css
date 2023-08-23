@@ -1,0 +1,10 @@
+.imgCart {
+  width: 3rem;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.containerCartWidget{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
